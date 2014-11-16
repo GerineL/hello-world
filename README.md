@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+I just changed the ReadMe file to practice with Commits. Pretty nice!
